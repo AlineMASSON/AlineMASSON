@@ -1,4 +1,4 @@
-<h1 align="center">:seedling: Bienvenu sur mon GitHub :seedling:</h1>
+<h1 align="center">:seedling: Bienvenue sur mon GitHub :seedling:</h1>
 
 <p align="center">
     <a href="https://git.io/streak-stats">
