@@ -50,7 +50,7 @@
 
 | <img src="images/eslint-custom.svg" alt="ESLINT" height="50px"> | <img src="images/axios.svg" alt="Axios" height="50px"> | <img src="images/yarn-custom.svg" alt="Yarn" height="50px"> | <img src="images/babel-custom.svg" alt="Babel" height="50px"> |
 | :----: | :----: | :----: | :----: |
-| ESLINT (airnnb 19.0) | Axios | Yarn | Babel |
+| ESLINT (airbnb 19.0) | Axios | Yarn | Babel |
 
 | <img src="images/cib-mysql-custom.svg" alt="My SQL" height="50px"> | <img src="images/composer-custom.svg" alt="Composer" height="50px"> | <img src="images/bootstrap-fill-custom.svg" alt="Bootstrap" height="50px"> |
 | :----: | :----: | :----: |
