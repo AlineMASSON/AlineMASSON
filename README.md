@@ -33,34 +33,37 @@
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-    <img src="images/html5-custom.svg" alt="HTML" height="50px">
-    <img src="images/css3-alt-custom.svg" alt="CSS" height="50px">
-    <img src="images/sass-fill-custom.svg" alt="SASS" height="50px">
-    <img src="images/js-square-custom.svg" alt="JavaScript" height="50px">
-    <img src="images/react-custom.svg" alt="ReactJS" height="50px">
+    <img src="images/html5-custom.svg" alt="HTML" height="50px">HTML 5
+    <img src="images/css3-alt-custom.svg" alt="CSS" height="50px">CSS 3
+    <img src="images/sass-fill-custom.svg" alt="SASS" height="50px">SCSS / SASS
+    <img src="images/js-square-custom.svg" alt="JavaScript" height="50px">JavaScript ES6
+    <img src="images/react-custom.svg" alt="ReactJS" height="50px">ReactJS 18.0
+    <img src="images/redux.svg" alt="Redux" height="50px">Redux 4.2 / Reat-Redux 8.0
 </p>
 
 <h3 align="center">Backend</h3>
 
 <p align="center">
-    <img src="images/php-fill-custom.svg" alt="PHP" height="50px">
-    <img src="images/sql(1).svg" alt="PHP" height="50px">
+    <img src="images/php-fill-custom.svg" alt="PHP" height="50px">PHP 7.4
+    <img src="images/sql(1).svg" alt="SQL" height="50px">SQL
 </p>
 
 <h3 align="center">Outils</h3>
 
 <p align="center">
-    <img src="images/vscode-fill-custom.svg" alt="VS Code" height="50px">
-    <img src="images/eslint-custom.svg" alt="ESLINT" height="50px">
-    <img src="images/babel-custom.svg" alt="Babel" height="50px">
-    <img src="images/cib-mysql-custom.svg" alt="My SQL" height="50px">
-    <img src="images/composer-custom.svg" alt="Composer" height="50px">
-    <img src="images/git-square-custom.svg" alt="Git" height="50px">
-    <img src="images/terminal-fill-custom.svg" alt="Terminal" height="50px">
-    <img src="images/logo-markdown-custom.svg" alt="Adobe Markdown" height="50px">
-    <img src="images/bootstrap-fill-custom.svg" alt="PHP" height="50px">
-    <img src="images/adobe-illustrator-custom.svg" alt="Adobe Illustrator" height="50px">
-    <img src="images/adobe-premiere-pro-custom.svg" alt="Adobe Premiere Pro" height="50px">
-    <img src="images/adobe-photoshop-custom.svg" alt="Adobe Photoshop" height="50px">
-    <img src="images/adobe-indesign-custom.svg" alt="Adobe Indesign" height="50px">
+    <img src="images/vscode-fill-custom.svg" alt="VS Code" height="50px">VS Code
+    <img src="images/eslint-custom.svg" alt="ESLINT" height="50px">ESLINT (airnnb 19.0)
+    <img src="images/axios.svg" alt="Axios" height="50px">Axios
+    <img src="images/yarn-custom.svg" alt="Yarn" height="50px">Yarn
+    <img src="images/babel-custom.svg" alt="Babel" height="50px">Babel
+    <img src="images/cib-mysql-custom.svg" alt="My SQL" height="50px">My SQL
+    <img src="images/composer-custom.svg" alt="Composer" height="50px">Composer
+    <img src="images/git-square-custom.svg" alt="Git" height="50px">Git
+    <img src="images/terminal-fill-custom.svg" alt="Terminal" height="50px">Terminal
+    <img src="images/logo-markdown-custom.svg" alt="Markdown" height="50px">Markdown
+    <img src="images/bootstrap-fill-custom.svg" alt="Bootstrap" height="50px">Bootstrap
+    <img src="images/adobe-illustrator-custom.svg" alt="Adobe Illustrator" height="50px">Adobe Illustrator
+    <img src="images/adobe-premiere-pro-custom.svg" alt="Adobe Premiere Pro" height="50px">Adobe Premiere Pro
+    <img src="images/adobe-photoshop-custom.svg" alt="Adobe Photoshop" height="50px">Adobe Photoshop
+    <img src="images/adobe-indesign-custom.svg" alt="Adobe Indesign" height="50px">Adobe Indesign
 </p>
