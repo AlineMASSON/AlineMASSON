@@ -34,7 +34,7 @@
                   
 | <img src="images/html5-custom.svg" alt="HTML" height="50px"> | <img src="images/css3-alt-custom.svg" alt="CSS" height="50px"> | <img src="images/sass-fill-custom.svg" alt="SASS" height="50px"> | <img src="images/js-square-custom.svg" alt="JavaScript" height="50px"> | <img src="images/react-custom.svg" alt="ReactJS" height="50px"> | <img src="images/redux.svg" alt="Redux" height="50px"> |
 | :----: | :----: | :----: | :----: | :----: | :----: |
-| HTML 5 | CSS 3 | SCSS / SASS | JavaScript ES6 | ReactJS 18.0 | Redux 4.2 / Reat-Redux 8.0 |
+| HTML 5 | CSS 3 | SCSS / SASS | JavaScript ES6 | ReactJS 18.0 | Redux 4.2 / React-Redux 8.0 |
 
 ### Backend
                                                                                                                         
